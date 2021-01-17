@@ -1,0 +1,49 @@
+{
+  "comments": [
+    {
+      "canvasID": "s-d7814f24-120d-4ea6-bc01-97e19ea666e9",
+      "elementID": "s-Image_1",
+      "canvasURL": "screens/d7814f24-120d-4ea6-bc01-97e19ea666e9",
+      "author": "bearstep@Yahoo.com",
+      "authorID" : 50347987,
+      "code": 1,
+      "parentCode": null,
+      "content": "Radio button that turns to checkmark and brings to surveyanswer2",
+      "timestamp": "1610669901089",
+      "date": "January 14, 2021, 4:18 PM",
+      "fileID": "",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "s-d8d8c3e7-ba4b-4d76-a2d5-b32c863c43de",
+      "elementID": "s-Input_1",
+      "canvasURL": "screens/d8d8c3e7-ba4b-4d76-a2d5-b32c863c43de",
+      "author": "bearstep@Yahoo.com",
+      "authorID" : 50347987,
+      "code": 2,
+      "parentCode": null,
+      "content": "Can be set as an option from creation",
+      "timestamp": "1610670066727",
+      "date": "January 14, 2021, 4:21 PM",
+      "fileID": "",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "s-fbd15ffc-bb18-4cba-9aa3-5381a7917d9a",
+      "elementID": "s-Paragraph_3",
+      "canvasURL": "screens/fbd15ffc-bb18-4cba-9aa3-5381a7917d9a",
+      "author": "bearstep@Yahoo.com",
+      "authorID" : 50347987,
+      "code": 3,
+      "parentCode": null,
+      "content": "Click to copy link",
+      "timestamp": "1610671023266",
+      "date": "January 14, 2021, 4:37 PM",
+      "fileID": "",
+      "fileName": "",
+      "isRead": true
+    }
+  ]
+}
